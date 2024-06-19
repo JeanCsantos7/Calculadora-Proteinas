@@ -1,0 +1,63 @@
+body{
+  background-color: rgb(20, 19, 34);
+}
+
+.Logotipo{
+  
+  display: flex;
+  justify-content: center;
+  width: 25%;
+  align-items: center;
+  padding-top: 27%;
+  margin: 0 auto;
+ 
+  
+}
+
+
+
+.inputs{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 8%;
+
+}
+
+.ContainerLoader{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+ 
+}
+
+input{
+  outline: none;
+  border: none;
+  border-radius: 7px;
+  margin: 4.5%;
+  width: 300px;
+  height: 35px;
+}
+
+.Botao{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  margin-top: 6.5%;
+  width: 280px;
+  height: 35px;
+  background-color: rgb(255, 255, 107);
+  border-radius: 35px;
+  color: #202020;
+  outline: none;
+  border: none;
+}
+
+
+.texto{
+  color: #FFF;
+}
